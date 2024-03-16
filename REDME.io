@@ -1,7 +1,6 @@
 MONGO_URL = 'mongodb://localhost:27017/SocialMedia'
+// deploy : https://render.com/
 
-
-// 
 if token save cookie then token not mandatory for Authorization don't need pass 
 if token can not store cookie then token is mandatory for Authorization
  Authorization: 
